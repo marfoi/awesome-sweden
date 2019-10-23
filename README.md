@@ -48,6 +48,9 @@
 - [Gothenburg Tech Radar](https://www.meetup.com/Gothenburg-Tech-Radar/) - Presentations and open discussions about the latest software, technology and methodologies.
 - [AngularJS Gothenburg](https://www.meetup.com/AngularJS-Gothenburg/) - AngularJS meetup in Gothenburg.
 
+### Malmö
+- [Foo Café](https://foocafe.org/?cat=3) - A handful of meetups every month for people interested in software development. Believe in sharing knowledge between individuals and companies for the better future of the IT industry. Also running a CRS (Corporate Social Responsibility) project for to help immigrants, newcomers and other unprivileged groups to find employment in Sweden. Also active in Stockholm.
+
 ## Slack communities
 - [SSDC - Sundsvall Software Developer Community](https://sundsvall-dev.slack.com/) - A Slack community for every developer based in Sundsvall.
 
